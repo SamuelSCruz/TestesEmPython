@@ -1,4 +1,4 @@
-exercícios de Python, começando do zero e usando somente os conteúdos que vimos até agora:
+Exercícios de Python, começando do zero e usando somente os conteúdos que vimos até agora:
 
 Variáveis
 Tipos int, float e str
