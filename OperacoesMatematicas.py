@@ -1,5 +1,5 @@
 #Introdução da atividade:
-#Cria um algoritimo que solicita ao usuário dois números e imprima na tela a soma, subtração, multiplicação e divisão.
+#Cria um algoritimo que solicitamuly ao usuário dois números e imprima na tela a soma, subtração, multiplicação e divisão.
 #Variáveis utilizadas: number1 e number2
 
 # Menu: informa as operações e solicita que o usuário informe a que ele deseja

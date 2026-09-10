@@ -17,7 +17,7 @@ f-strings
 
 Vou evitar listas, dicionários, classes, módulos, tratamento de exceções etc. por enquanto.
 
-🐍 Atividade 1 — Variáveis e print()
+🐍 Atividade 1 — Variáveis e print() - ok
 
 Crie um programa que armazene:
 
@@ -34,7 +34,8 @@ Nome: Samuel
 Idade: 20
 Cidade: Salvador
 Curso: Análise e Desenvolvimento de Sistemas
-🐍 Atividade 2 — Operações matemáticas
+
+🐍 Atividade 2 — Operações matemáticas - ok
 
 Crie duas variáveis:
 
@@ -50,7 +51,7 @@ Divisão
 
 Desafio: faça o programa mostrar o nome da operação junto com o resultado.
 
-🐍 Atividade 3 — Entrada de dados
+🐍 Atividade 3 — Entrada de dados - ok
 
 Faça um programa que pergunte ao usuário:
 
@@ -66,7 +67,7 @@ Utilize input().
 
 Importante: transforme a idade em int.
 
-🐍 Atividade 4 — Calculadora simples
+🐍 Atividade 4 — Calculadora simples - ok
 
 Peça ao usuário dois números.
 
@@ -82,6 +83,7 @@ Utilize:
 input()
 float()
 print()
+
 🐍 Atividade 5 — Maior de idade
 
 Peça a idade do usuário.
