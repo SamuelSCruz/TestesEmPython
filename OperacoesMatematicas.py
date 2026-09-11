@@ -21,7 +21,7 @@ elif menu == 2:
     number1 = int(input("Informe o número 1: "))
     number2 = int(input("Informe o número 2: "))
     mult = number1 * number2
-    print("\nMultiplicação dos dois números: ", mult)
+    print(f"\nMultiplicação dos dois números:  {mult}")
 
 
 elif menu == 3:

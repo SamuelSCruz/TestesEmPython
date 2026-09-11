@@ -84,7 +84,7 @@ input()
 float()
 print()
 
-🐍 Atividade 5 — Maior de idade
+🐍 Atividade 5 — Maior de idade - ok
 
 Peça a idade do usuário.
 
@@ -100,7 +100,8 @@ Utilize apenas:
 
 if
 else
-🐍 Atividade 6 — Situação do aluno
+
+🐍 Atividade 6 — Situação do aluno - ok
 
 Peça a nota de um aluno.
 
@@ -115,7 +116,8 @@ Utilize:
 if
 elif
 else
-🐍 Atividade 7 — Comparação de números
+
+🐍 Atividade 7 — Comparação de números - ok
 
 Peça dois números ao usuário.
 
@@ -127,7 +129,8 @@ o menor;
 Caso sejam iguais, informe:
 
 Os números são iguais.
-🐍 Atividade 8 — Contagem com for
+
+🐍 Atividade 8 — Contagem com for - ok
 
 Faça um programa que mostre os números de 1 até 10.
 
@@ -148,6 +151,7 @@ Resultado esperado:
 8
 9
 10
+
 🐍 Atividade 9 — Tabuada
 
 Peça um número ao usuário e mostre a tabuada dele de 1 até 10.
