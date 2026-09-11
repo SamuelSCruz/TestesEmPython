@@ -14,6 +14,7 @@ match menu: # Escolha(match): Menu para usuário decidir qual operação quer.
                 number = int(input("Informe um número: ")) # Solicita o número
                 for i in range(1,11): # Laço de repetição que irá imprimir 10x de 1 à 11
                     print(f"{number} + {i} = {number + i}") # Imprime o resultado. Sem o f (do jeito antigo com vírgulas): |print(number,(" + "), i,(" = "), number + i)|
+                    break
             except ValueError:
                 print("[ERRO] Informe um número!\n")
 
@@ -23,6 +24,7 @@ match menu: # Escolha(match): Menu para usuário decidir qual operação quer.
                 number = int(input("Informe um número: ")) 
                 for i in range(1,11):
                     print(f"{number} x {i} = {number * i}")
+                    break
             except ValueError:
                 print("[ERRO] Informe um número!\n")
 
@@ -32,6 +34,7 @@ match menu: # Escolha(match): Menu para usuário decidir qual operação quer.
                 number = int(input("Informe um número: ")) 
                 for i in range(1,11):
                     print(f"{number} - {i} = {number - i}")
+                    break
             except ValueError:
                 print("[ERRO] Informe um número!\n")
 
@@ -41,6 +44,7 @@ match menu: # Escolha(match): Menu para usuário decidir qual operação quer.
                 number = int(input("Informe um número: ")) 
                 for i in range(1,11):
                     print(f"{number} / {i} = {number / i}")
+                    break
             except ValueError:
                 print("[ERRO] Informe um número!\n")
 

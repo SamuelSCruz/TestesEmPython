@@ -152,7 +152,7 @@ Resultado esperado:
 9
 10
 
-🐍 Atividade 9 — Tabuada
+🐍 Atividade 9 — Tabuada - ok
 
 Peça um número ao usuário e mostre a tabuada dele de 1 até 10.
 
