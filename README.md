@@ -185,6 +185,7 @@ Ela deve receber dois números e retornar a soma deles.
 Depois utilize a função para calcular:
 
 10 + 20
+
 🐍 Atividade 12 — Função para verificar nota
 
 Crie uma função chamada:
